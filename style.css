@@ -1,0 +1,37 @@
+/* General styles - put these straight into your stylesheet */
+
+body {
+    margin: 0;
+  }
+  
+  html {
+    font-size: 10px;
+    
+  
+    background-color: red
+    
+  }
+  
+  /* Selectors to be matched up with rulesets */
+  
+  .card {
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  #borderimg {
+    border: 10px solid transparent;
+    padding: 15px;
+    margin: 15px
+  }
+  
+
+
+
+  
+
+
+  
+  
+  
+  
